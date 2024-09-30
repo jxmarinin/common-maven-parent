@@ -7,8 +7,8 @@
 	<version>21.0</version>
 	<packaging>pom</packaging>
 	<modules>
-		<module>rpsolver</module>
-		<module>mzparser</module>
+		<module>../rpsolver</module>
+		<module>../mzparser</module>
 	</modules>
 
 	<properties>
